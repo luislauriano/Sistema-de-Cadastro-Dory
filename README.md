@@ -1,5 +1,9 @@
 # Seu guia para usar o Sistema de Cadastro **Dory** 🐟
 
+<p align="center">
+  <img src="https://i.imgur.com/tnq0sPf.jpg" width = 100%>
+</p>
+
 ## 🐟 Por que Dory? 
 
 Apesar desse sistema de cadastro ser simples, prático e eficiente, assim como
