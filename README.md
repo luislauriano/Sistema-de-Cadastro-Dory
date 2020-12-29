@@ -1,6 +1,6 @@
 # Seu guia para usar o sistema de cadastro **Dory**.
 
-Por que Dory?
+## Por que Dory?
 
 Apesar desse sistema de cadastro ser simples, prático e eficiente, assim como
 a Dory do filme Nemo, tem seus problemas e está se adaptando conforme vai
@@ -8,18 +8,20 @@ crescendo.
 
 ---
 
-Quais os seus problemas?
+## Quais os seus problemas?
 
 Para Dory, o nome do usuário é de extrema importância para o seu
 funcionamento, assim ela nunca vai esquece-lo (rs). Então, se liga:
 
-* • O sistema utiliza o nome do usuário como referência para realizar a
+* O sistema utiliza o nome do usuário como referência para realizar a
 maioria de suas tarefas.
 
-* • Recupera os usuários cadastrados no banco de dados apenas quando
+
+* Recupera os usuários cadastrados no banco de dados apenas quando
 informado o nome do usuário.
 
-* • Na opção de atualizar os dados, primeiro todos os dados que estão
+
+* Na opção de atualizar os dados, primeiro todos os dados que estão
 relacionados ao nome do usuário informado são deletados, após isso é
 possível informar um novo usuário.
 
@@ -30,7 +32,7 @@ apenas tente compreende-la melhor \o/
 
 ---
 
-Como usar a Dory?
+## Como usar a Dory?
 
 A Dory é um sistema de cadastro simples e foi construída com base em duas
 bibliotecas da linguagem de programação Python, Sqlite3 e Tkinter. Então,
@@ -43,9 +45,9 @@ interface melhor.
 
 ---
 
-Pegue as suas nadadeiras e vamos conhecer a Dory:
+## Pegue as suas nadadeiras e vamos conhecer a Dory:
 
-* • Cadastrar um usuário:
+* Cadastrar um usuário:
 
 
 Para cadastrar um usuário basta preencher corretamente os campos
@@ -53,14 +55,14 @@ solicitados: Nome, Sobrenome, E-mail, Senha e marcar a opção
 Cadastrar. Lembre-se que o Nome é de extrema importância para a
 Dory.
 
-* • Buscar um usuário:
+* Buscar um usuário:
 
 
 Para buscar um usuário cadastrado no banco de dados é preciso
 apenas informar o Nome do usuário e marcar a opção Buscar, assim
 todos os dados do usuário serão retornados.
 
-* • Atualizar Dados de um usuário:
+* Atualizar Dados de um usuário:
 
 
 Para atualizar os dados de um usuário você precisa saber pelo menos o
