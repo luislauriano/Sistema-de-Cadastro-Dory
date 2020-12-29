@@ -1,6 +1,6 @@
 # Seu guia para usar o Sistema de Cadastro **Dory** 🐟
 
-## Por que Dory? 🐟
+## 🐟 Por que Dory? 
 
 Apesar desse sistema de cadastro ser simples, prático e eficiente, assim como
 a Dory do filme Nemo, tem seus problemas e está se adaptando conforme vai
@@ -8,7 +8,7 @@ crescendo.
 
 ---
 
-## Quais os seus problemas?
+## 🐟 Quais os seus problemas?
 
 Para Dory, o nome do usuário é de extrema importância para o seu
 funcionamento, assim ela nunca vai esquece-lo (rs). Então, se liga:
@@ -32,7 +32,7 @@ apenas tente compreende-la melhor \o/
 
 ---
 
-## Como usar a Dory?
+## 🐟 Como usar a Dory?
 
 A Dory é um sistema de cadastro simples e foi construída com base em duas
 bibliotecas da linguagem de programação Python, Sqlite3 e Tkinter. Então,
@@ -45,7 +45,7 @@ interface melhor.
 
 ---
 
-## Pegue as suas nadadeiras e vamos conhecer a Dory:
+## 🐟 Pegue as suas nadadeiras e vamos conhecer a Dory:
 
 * Cadastrar um usuário:
 
