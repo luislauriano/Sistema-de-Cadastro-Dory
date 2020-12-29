@@ -1,6 +1,6 @@
-# Seu guia para usar o sistema de cadastro **Dory**.
+# Seu guia para usar o Sistema de Cadastro **Dory** 🐟
 
-## Por que Dory?
+## Por que Dory? 🐟
 
 Apesar desse sistema de cadastro ser simples, prático e eficiente, assim como
 a Dory do filme Nemo, tem seus problemas e está se adaptando conforme vai
@@ -69,12 +69,14 @@ Para atualizar os dados de um usuário você precisa saber pelo menos o
 seu Nome, para que assim os dados do usuário sejam deletados e
 atualizados.
 
----
-
-Então, primeiro você precisa deve preencher o campo Nome e os outros
+Então, primeiro você precisa preencher o campo Nome e os outros
 campos corretamente e marcar a opção de Atualizar Dados, assim, os
 dados do usuário que você informou o Nome, serão deletados e Dory
 pedirá que você informe os novos dados.
+
+---
+
+
 Foi um prazer conhecer você e navegarmos juntos pelos
-mares, qualquer dúvida entre em contato!
+mares, qualquer dúvida entre em contato! 🐟
  
